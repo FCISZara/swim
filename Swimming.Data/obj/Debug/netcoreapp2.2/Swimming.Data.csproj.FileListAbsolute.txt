@@ -1,0 +1,9 @@
+C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Data\obj\Debug\netcoreapp2.2\Swimming.Data.csprojAssemblyReference.cache
+C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Data\obj\Debug\netcoreapp2.2\Swimming.Data.csproj.CoreCompileInputs.cache
+C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Data\obj\Debug\netcoreapp2.2\Swimming.Data.AssemblyInfoInputs.cache
+C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Data\obj\Debug\netcoreapp2.2\Swimming.Data.AssemblyInfo.cs
+C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Data\bin\Debug\netcoreapp2.2\Swimming.Data.deps.json
+C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Data\bin\Debug\netcoreapp2.2\Swimming.Data.dll
+C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Data\bin\Debug\netcoreapp2.2\Swimming.Data.pdb
+C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Data\obj\Debug\netcoreapp2.2\Swimming.Data.dll
+C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Data\obj\Debug\netcoreapp2.2\Swimming.Data.pdb
