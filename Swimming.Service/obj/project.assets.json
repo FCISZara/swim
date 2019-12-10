@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sara.ahmed\\source\\repos\\Swimming.Web\\Swimming.Service\\Swimming.Service.csproj",
+      "projectUniqueName": "E:\\FreeLancing\\SwimApp\\Swimming.Service\\Swimming.Service.csproj",
       "projectName": "Swimming.Service",
-      "projectPath": "C:\\Users\\sara.ahmed\\source\\repos\\Swimming.Web\\Swimming.Service\\Swimming.Service.csproj",
+      "projectPath": "E:\\FreeLancing\\SwimApp\\Swimming.Service\\Swimming.Service.csproj",
       "packagesPath": "C:\\Users\\sara.ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sara.ahmed\\source\\repos\\Swimming.Web\\Swimming.Service\\obj\\",
+      "outputPath": "E:\\FreeLancing\\SwimApp\\Swimming.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
