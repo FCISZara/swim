@@ -7,3 +7,12 @@ C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Service\obj\Debug\netcore
 C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Service\obj\Debug\netcoreapp2.2\Swimming.Service.AssemblyInfo.cs
 C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Service\obj\Debug\netcoreapp2.2\Swimming.Service.dll
 C:\Users\sara.ahmed\source\repos\Swimming.Web\Swimming.Service\obj\Debug\netcoreapp2.2\Swimming.Service.pdb
+E:\FreeLancing\SwimApp\Swimming.Service\bin\Debug\netcoreapp2.2\Swimming.Service.deps.json
+E:\FreeLancing\SwimApp\Swimming.Service\bin\Debug\netcoreapp2.2\Swimming.Service.dll
+E:\FreeLancing\SwimApp\Swimming.Service\bin\Debug\netcoreapp2.2\Swimming.Service.pdb
+E:\FreeLancing\SwimApp\Swimming.Service\obj\Debug\netcoreapp2.2\Swimming.Service.csprojAssemblyReference.cache
+E:\FreeLancing\SwimApp\Swimming.Service\obj\Debug\netcoreapp2.2\Swimming.Service.csproj.CoreCompileInputs.cache
+E:\FreeLancing\SwimApp\Swimming.Service\obj\Debug\netcoreapp2.2\Swimming.Service.AssemblyInfoInputs.cache
+E:\FreeLancing\SwimApp\Swimming.Service\obj\Debug\netcoreapp2.2\Swimming.Service.AssemblyInfo.cs
+E:\FreeLancing\SwimApp\Swimming.Service\obj\Debug\netcoreapp2.2\Swimming.Service.dll
+E:\FreeLancing\SwimApp\Swimming.Service\obj\Debug\netcoreapp2.2\Swimming.Service.pdb

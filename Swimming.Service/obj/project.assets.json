@@ -692,11 +692,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Projects\\Core\\Swimming\\Swimming.Service\\Swimming.Service.csproj",
       "projectName": "Swimming.Service",
       "projectPath": "D:\\Projects\\Core\\Swimming\\Swimming.Service\\Swimming.Service.csproj",
       "packagesPath": "C:\\Users\\mostafa.hamed\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\Core\\Swimming\\Swimming.Service\\obj\\",
+=======
+      "projectUniqueName": "E:\\FreeLancing\\SwimApp\\Swimming.Service\\Swimming.Service.csproj",
+      "projectName": "Swimming.Service",
+      "projectPath": "E:\\FreeLancing\\SwimApp\\Swimming.Service\\Swimming.Service.csproj",
+      "packagesPath": "C:\\Users\\sara.ahmed\\.nuget\\packages\\",
+      "outputPath": "E:\\FreeLancing\\SwimApp\\Swimming.Service\\obj\\",
+>>>>>>> 76247be4db45bf2085a4a6ed814768f5bf94549f
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

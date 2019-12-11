@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Projects\\Core\\Swimming\\Swimming.Data\\Swimming.Data.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\Projects\\Core\\Swimming\\Swimming.Data\\Swimming.Data.csproj",
         "packagesPath": "C:\\Users\\mostafa.hamed\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Core\\Swimming\\Swimming.Data\\obj\\",
+=======
+    "E:\\FreeLancing\\SwimApp\\Swimming.Data\\Swimming.Data.csproj": {}
+  },
+  "projects": {
+    "E:\\FreeLancing\\SwimApp\\Swimming.Data\\Swimming.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FreeLancing\\SwimApp\\Swimming.Data\\Swimming.Data.csproj",
+        "projectName": "Swimming.Data",
+        "projectPath": "E:\\FreeLancing\\SwimApp\\Swimming.Data\\Swimming.Data.csproj",
+        "packagesPath": "C:\\Users\\sara.ahmed\\.nuget\\packages\\",
+        "outputPath": "E:\\FreeLancing\\SwimApp\\Swimming.Data\\obj\\",
+>>>>>>> 76247be4db45bf2085a4a6ed814768f5bf94549f
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

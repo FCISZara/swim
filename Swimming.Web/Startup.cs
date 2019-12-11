@@ -1,9 +1,12 @@
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SpaServices.AngularCli;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Swimming.Data;
 
 namespace Swimming.Web
 {
@@ -26,6 +29,10 @@ namespace Swimming.Web
             {
                 configuration.RootPath = "ClientApp/dist";
             });
+            services.AddDbContext<SwimmingContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddMediatR(typeof(Swimming.Service.Class1).Assembly);
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
